@@ -9,7 +9,7 @@
 
 | **Project Details** | **Information** |
 | :--- | :--- |
-| **Team Members** | Muneezé Malik, Madiha Shahab |
+| **Team Members** | Muneezé Malik |
 | **Instructor** | Sir Shayan Shah |
 | **Submission Date** | 21st November 2025 |
 | **Topic** | Patient Experience & Outcomes (Using MIMIC-IV) |
