@@ -83,8 +83,8 @@ MIMIC-IV is divided into two main modules:
 
 To process multimillion-row clinical datasets, a distributed **Data Lakehouse architecture** is used.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_q4l510q4l510q4l5 (1)" src="https://github.com/user-attachments/assets/d7986ccd-706e-4997-87c0-065d594e93a2" />
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_q4l510q4l510q4l5 (1)" src="https://github.com/user-attachments/assets/09060cf5-f1ae-4f43-b8c9-2ae6c329b498" />
 
 
 ### A. Data Ingestion & Storage
@@ -116,8 +116,9 @@ To process multimillion-row clinical datasets, a distributed **Data Lakehouse ar
 ### D. Visualization & Reporting
 * **Tableau/Superset:** Patient journey dashboards & Sankey maps.
 * **Python:** ROC/PR curves, SHAP summaries for explainability.
-  
-![licensed-image](https://github.com/user-attachments/assets/86f61f7c-32df-4814-8478-084661ff3cd3)
+
+![licensed-image](https://github.com/user-attachments/assets/56e0f599-e1e5-488c-81d1-ba7e476aa330)
+
 
 ---
 
