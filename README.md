@@ -1,6 +1,6 @@
 # 🏥 MediPredict.AI - Patient Outcomes Dashboard
 
-### 🚀 [(https://gemini.google.com/share/f96aa0b37c0b)](https://patient-dashboard-nine-orcin.vercel.app/)
+### 🚀 https://patient-dashboard-nine-orcin.vercel.app/
 *(This is the interactive frontend for the case study below)*
 
 ---
