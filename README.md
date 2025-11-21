@@ -1,6 +1,6 @@
 # 🏥 MediPredict.AI - Patient Outcomes Dashboard
 
-### 🚀 [Click Here to View the Live Dashboard](https://YOUR_USERNAME.github.io/REPOSITORY_NAME)
+### 🚀 (https://gemini.google.com/share/f96aa0b37c0b)
 *(This is the interactive frontend for the case study below)*
 
 ---
