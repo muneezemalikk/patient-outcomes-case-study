@@ -84,8 +84,7 @@ MIMIC-IV is divided into two main modules:
 To process multimillion-row clinical datasets, a distributed **Data Lakehouse architecture** is used.
 
 
-<img width="2816" height="1536" alt="pipeline" src="https://github.com/user-attachments/assets/dae2581a-6ce9-4102-bc77-df9cb7e485ce" />
-
+![Pipeline Architecture](./pipeline.jpg)
 
 ### A. Data Ingestion & Storage
 * **Ingestion:** Batch processing via **Airflow / PySpark** to move CSVs from PhysioNet into the data lake.
@@ -117,9 +116,7 @@ To process multimillion-row clinical datasets, a distributed **Data Lakehouse ar
 * **Tableau/Superset:** Patient journey dashboards & Sankey maps.
 * **Python:** ROC/PR curves, SHAP summaries for explainability.
 
-![workflow](https://github.com/user-attachments/assets/49509ccb-cf42-459e-9427-c186a0bf38a7)
-
-
+![Workflow Diagram](./workflow.jpeg)
 
 ---
 
